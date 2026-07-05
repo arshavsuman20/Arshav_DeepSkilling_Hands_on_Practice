@@ -57,6 +57,19 @@ This repository contains my solutions for the mandatory hands-on exercises compl
 
 ---
 
+## Week 3
+
+### Spring Boot REST
+
+- Exercise 1: Create a Spring Web Project using Maven
+- Exercise 2: Load Country from Spring Configuration
+- Exercise 3: Hello World RESTful Web Service
+- Exercise 4: REST - Country Web Service
+- Exercise 5: REST - Get Country Based on Country Code
+- Exercise 6: JWT Authentication Service
+
+---
+
 ## Repository Structure
 
 ```text
@@ -68,9 +81,17 @@ Hands-On-Practice
 │   ├── SLF4J_Logging
 │   └── TDD using JUnit5 and Mockito
 │
-└── Week 2
-    ├── Spring_core_Maven
-    └── Spring_data_JPA
+├── Week 2
+│   ├── Spring_core_Maven
+│   └── Spring_data_JPA
+│
+└── Week 3
+    ├── Exercise 1 Spring Web Project using Maven
+    ├── Exercise 2 Spring CORE
+    ├── Exercise 3 Hello World RESTful Web Service
+    ├── Exercise 4 REST-Country Web Service
+    ├── Exercise 5 REST-Get Country on Code
+    └── Exercise 6 JWT
 ```
 
 ---
@@ -80,7 +101,10 @@ Hands-On-Practice
 - Java
 - Maven
 - Spring Framework
+- Spring Boot
 - Spring Data JPA
+- Spring Web
+- Spring Security (JWT)
 - Hibernate
 - JUnit 5
 - Mockito
@@ -95,4 +119,5 @@ Hands-On-Practice
 
 - Week 1 Completed
 - Week 2 Completed
+- Week 3 Completed
 - Continuing with the remaining Deep Skilling hands-on exercises.
