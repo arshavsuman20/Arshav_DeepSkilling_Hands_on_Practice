@@ -1,4 +1,4 @@
-package springlearn.controller;
+package main.java.springlearn.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
