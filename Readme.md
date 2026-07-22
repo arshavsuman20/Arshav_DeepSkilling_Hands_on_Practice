@@ -78,6 +78,23 @@ This repository contains my solutions for the mandatory hands-on exercises compl
 
 ---
 
+## Week 5
+
+### ReactJS
+
+- Exercise 1: myfirstreact
+- Exercise 2: studentapp
+- Exercise 3: scorecalculatorapp
+- Exercise 4: blogapp (Lifecycle Hooks)
+- Exercise 5: cohorttracker (CSS Modules)
+- Exercise 9: cricketapp (ES6 Features)
+- Exercise 10: officespacerentalapp (JSX)
+- Exercise 11: eventexamplesapp (Events)
+- Exercise 12: ticketbookingapp (Conditional Rendering)
+- Exercise 13: bloggerapp (Lists, Keys and map())
+
+---
+
 ## Repository Structure
 
 ```text
@@ -101,10 +118,23 @@ Hands-On-Practice
 │   ├── Exercise 5 REST-Get Country on Code
 │   └── Exercise 6 JWT
 │
-└── Week 4
-    └── Microservices
-        ├── account
-        └── loan
+├── Week 4
+│   └── Microservices
+│       ├── account
+│       └── loan
+│
+└── Week 5
+    └── ReactJS
+        ├── myfirstreact
+        ├── studentapp
+        ├── scorecalculatorapp
+        ├── blogapp
+        ├── cohorttracker
+        ├── cricketapp
+        ├── officespacerentalapp
+        ├── eventexamplesapp
+        ├── ticketbookingapp
+        └── bloggerapp
 ```
 
 ---
@@ -123,6 +153,10 @@ Hands-On-Practice
 - Mockito
 - SLF4J
 - PL/SQL
+- ReactJS
+- JavaScript (ES6)
+- HTML
+- CSS
 - Git
 - GitHub
 
@@ -134,4 +168,5 @@ Hands-On-Practice
 - Week 2 Completed
 - Week 3 Completed
 - Week 4 Completed
+- Week 5 ReactJS Hands-ons (Exercise 1–5, 9–13) Completed
 - Continuing with the remaining Deep Skilling hands-on exercises.
